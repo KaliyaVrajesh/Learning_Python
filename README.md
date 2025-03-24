@@ -15,7 +15,8 @@ DESCRIPTION: Just bunch of if else statement and count is returned at the end wh
 +++++++++++++++++ PROJECT 1: NUMBER GUESSING GAME ++++++++++++++++++
 NAME : QUIZ GAME
 DIFFICULTY : EASY
-DESCRIPTION: Using random module numbers are generated and if number is correctly guessed by user , you guessed it right ; user wins !
+DESCRIPTION: Using random module numbers are generated and if number is correctly guessed by user , you guessed it right ; user wins ! But if user is wrong program tells user that number is greater than or less than guessed number! This helps eliminating few possibilities
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
