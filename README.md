@@ -12,3 +12,10 @@ DIFFICULTY : EASY
 DESCRIPTION: Just bunch of if else statement and count is returned at the end which helps user to know their score after the test
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
++++++++++++++++++ PROJECT 1: NUMBER GUESSING GAME ++++++++++++++++++
+NAME : QUIZ GAME
+DIFFICULTY : EASY
+DESCRIPTION: Using random module numbers are generated and if number is correctly guessed by user , you guessed it right ; user wins !
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
